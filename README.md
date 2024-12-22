@@ -1,4 +1,9 @@
-## Hi there 👋
+# Luke McGovern ⛳
+**`Software Engineer, Full-Stack Developer`**
+
+I am a recent Computer Science graduate from the University of Vermont, where I earned a knowledge base spanning multiple disciplines and languages. Since graduating, I've been passionately expanding my C.S. repertoire to more effectively address the ever-evolving challenges in our tech landscape. I have recently become proficient in robotics software architecture, designing autonomous navigation features for a virtual drone (I plan on integrating my code into a self-built drone). 
+
+I have also built, and hosted my personal <a href="https://lukemcg27.netlify.app/portfolio">Web Portfolio</a>, which contains my first full-stack application. Accomplishing these two solo projects has vastly improved my ability to solve problems independently, and create software which far surpasses the fundamentals taught at UVM. My current goal is to join a Software team within a local company, where I can contribute my skillset, and grow into an expert developer.
 
 <!--
 **McGovern7/McGovern7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
