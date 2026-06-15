@@ -6,7 +6,11 @@ I am a recent Computer Science graduate from the University of Vermont, where I 
 
 I have also built, and hosted my personal <a href="https://lukemcg27.netlify.app/portfolio">Web Portfolio</a>, which contains my first full-stack application. Check it out for more info about what i've done! All components were custom built using React.
 
-Accomplishing these two solo projects has vastly improved my ability to solve problems independently, and create software which far surpasses the fundamentals taught at UVM. My current goal is to join a Software team within a local company, where I can contribute my skillset, and grow into an expert developer. 
+Accomplishing these two solo projects has vastly improved my ability to solve problems independently, and create software which far surpasses the fundamentals taught at UVM.
+
+Since early 2025, I have become a freelance website developer under Luke M Software LLC using my skills to build, host, and optimize the web preseneces of local companies.
+
+My current goal is to join a Software team within a local company, where I can contribute my skillset, and grow into an expert developer. 
 
 ---
 
